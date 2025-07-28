@@ -9,6 +9,12 @@ This is a  Power BI project developed to explore healthcare data and build real-
 **Custom Visuals:** Includes pie charts, column charts, line graphs, and KPI cards for a clear visual summary.<br>
 **DAX Measures:** Used to calculate aggregated metrics like total revenue, average patient age, and patient counts.<br>
 
+# DAX Functions Used:
+Some of the DAX measures used in the dashboard include:
+SUM() – to calculate total revenue <br>
+AVERAGE() – to find the average patient age <br>
+COUNT() – to count number of patients
+
 # File:
 HealthcareAnalyticsDashboard.pbix – Power BI report file containing the complete dashboard.
 
