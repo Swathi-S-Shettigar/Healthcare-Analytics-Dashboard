@@ -2,18 +2,18 @@
 This is a  Power BI project developed to explore healthcare data and build real-world data analysis skills. The dashboard provides insights into patient demographics, hospital revenue, billing trends, and admission patterns using interactive visuals and DAX measures.
 
 # Key Features:
-**Patient Demographics:**  Analyze total patient count, average age, and gender distribution.  <br>
-**Medical Insights:** View trends across medical conditions, admission types, and hospital locations. <br>
-**Financial Metrics:** Track hospital revenue and billing trends. <br>
-**Interactive Slicers:** Filter data dynamically by date, hospital, admission type, and more.<br>
-**Custom Visuals:** Includes pie charts, column charts, line graphs, and KPI cards for a clear visual summary.<br>
-**DAX Measures:** Used to calculate aggregated metrics like total revenue, average patient age, and patient counts.<br>
+* **Patient Demographics:**  Analyze total patient count, average age, and gender distribution.  <br>
+* **Medical Insights:** View trends across medical conditions, admission types, and hospital locations. <br>
+* **Financial Metrics:** Track hospital revenue and billing trends. <br>
+* **Interactive Slicers:** Filter data dynamically by date, hospital, admission type, and more.<br>
+* **Custom Visuals:** Includes pie charts, column charts, line graphs, and KPI cards for a clear visual summary.<br>
+* **DAX Measures:** Used to calculate aggregated metrics like total revenue, average patient age, and patient counts.<br>
 
 # DAX Functions Used:
-Some of the DAX measures used in the dashboard include:
-SUM() – to calculate total revenue <br>
-AVERAGE() – to find the average patient age <br>
-COUNT() – to count number of patients
+Some of the DAX measures used in the dashboard include:<br>
+* SUM() – to calculate total revenue <br>
+* AVERAGE() – to find the average patient age <br>
+* COUNT() – to count number of patients
 
 # File:
 HealthcareAnalyticsDashboard.pbix – Power BI report file containing the complete dashboard.
